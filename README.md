@@ -1,7 +1,7 @@
 # charts
 
-A new Flutter project.
-
+パッケージ『charts』を利用したサンプルコード
+charts
 ## Getting Started
 
 This project is a starting point for a Flutter application.
